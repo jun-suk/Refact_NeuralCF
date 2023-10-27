@@ -23,8 +23,10 @@ python Run.py
 ```
 
 
+### 출처
+* https://github.com/LeeHyeJin91/Neural_CF
 
 
 ### update
-
+* 작업중
 
